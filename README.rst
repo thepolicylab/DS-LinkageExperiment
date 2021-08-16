@@ -179,6 +179,10 @@ Lastly we can use our trained model to predict unlabeled data. The method takes 
     y_pred = Ens.pred_ensemble(indices_test_AL)
 
 
+Contributors
+------------
+Primarily built by Nathaniel Lanier with oversight from Kevin H. Wilson.
+
 License
 -------
 
