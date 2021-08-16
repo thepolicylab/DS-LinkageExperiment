@@ -1,0 +1,11 @@
+scikit-learn
+recordlinkage
+pandas
+tqdm
+jupyter
+
+pytest
+black
+mypy
+isort
+pylint
